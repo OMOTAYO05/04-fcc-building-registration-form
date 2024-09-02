@@ -15,9 +15,9 @@ Additional description of the project and its features.
 - 
 - technologies used
 
-## Live Demo
+## Deployment 
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/onikosi-omotayo-eniolas-projects/04-fcc-building-registration-form)
 
 ### Development (Running locally)
 
