@@ -8,8 +8,11 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
+- HTML5,
+- `form`,`label`,`input`,`fieldset`,`select`,`textarea`,`a`,
+- CSS
+- `background-color`,`width`,`height`,`border`,`font-size`,`display`,`font-family`,
+- 
 - technologies used
 
 ## Live Demo
