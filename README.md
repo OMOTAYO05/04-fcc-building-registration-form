@@ -12,10 +12,10 @@ Additional description of the project and its features.
 - `form`,`label`,`input`,`fieldset`,`select`,`textarea`,`a`,
 - CSS
 - `background-color`,`width`,`height`,`border`,`font-size`,`display`,`font-family`,
-- 
+-
 - technologies used
 
-## Deployment 
+## Deployment
 
 [Deployment link](https://vercel.com/onikosi-omotayo-eniolas-projects/04-fcc-building-registration-form)
 
