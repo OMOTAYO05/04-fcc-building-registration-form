@@ -2,19 +2,22 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
+- HTML5,
+- `form`,`label`,`input`,`fieldset`,`select`,`textarea`,`a`,
+- CSS
+- `background-color`,`width`,`height`,`border`,`font-size`,`display`,`font-family`,
+-
 - technologies used
 
-## Live Demo
+## Deployment
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/onikosi-omotayo-eniolas-projects/04-fcc-building-registration-form)
 
 ### Development (Running locally)
 
